@@ -1,0 +1,17 @@
+e:\documents\visual studio 2015\Projects\CalculaExpressao\CalculaExpressao\bin\Debug\CalculaExpressao.exe.config
+e:\documents\visual studio 2015\Projects\CalculaExpressao\CalculaExpressao\bin\Debug\CalculaExpressao.exe
+e:\documents\visual studio 2015\Projects\CalculaExpressao\CalculaExpressao\bin\Debug\CalculaExpressao.pdb
+e:\documents\visual studio 2015\Projects\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.Form1.resources
+e:\documents\visual studio 2015\Projects\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.exe
+e:\documents\visual studio 2015\Projects\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.pdb
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\bin\Debug\CalculaExpressao.exe.config
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\bin\Debug\CalculaExpressao.exe
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\bin\Debug\CalculaExpressao.pdb
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.csprojAssemblyReference.cache
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.Form1.resources
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.Properties.Resources.resources
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.csproj.GenerateResource.cache
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.exe
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculaExpressao\CalculaExpressao\obj\Debug\CalculaExpressao.pdb
